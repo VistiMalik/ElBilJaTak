@@ -1,0 +1,56 @@
+body
+{
+	margin: 0px;
+	border: 0px;
+	font-size: 170%;
+	text-transform: capitalize;
+}
+.picture
+{
+	position: absolute; 
+}
+.txt-block
+{
+	position: absolute;
+  	color: black;
+	padding: 1% 1% 1% 2%;
+  	font-family: arial;
+  	line-height: 1%;
+}
+#blck1
+{
+	top: 10%;
+  	left: 0px;
+  	background-color: white;
+  	font-size: 140%;
+}
+#blck2
+{
+	background-color: 	#51dbb1;
+	top: 30.8%;
+  	left: 0px;
+  	color: white;
+  	font-size: 70%;
+}
+.vid
+{
+	line-height: 1%;
+	font-family: arial, arialblack, arial\ black;
+	background-color: #51dbb1;
+	padding: 3%;
+	width: 94%;
+	text-align: center;
+	margin-top: 5%;
+
+}
+#fbox
+{
+	width: 40%;
+	padding: 4%;
+	margin: 3%; 
+	background-color: white;
+	line-height: 170%;
+	font-size: 70%;
+	font-family: arial, arialblack, arial\ black;
+	border: 7px solid orange;
+}
